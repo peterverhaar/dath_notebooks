@@ -1,65 +1,66 @@
 [
     {
-        "author_id": "2960",
+        "id": "2960",
         "name": "Wayne W. Dyer",
-        "fans_count": "3225",
+        "fans_count": "3228",
         "works_count": "225",
         "hometown": "Detroit, Michigan",
         "country": "United States",
         "birth_year": "1940"
     },
     {
-        "author_id": "138207",
+        "id": "138207",
         "name": "Deepak Chopra",
-        "fans_count": "18696",
-        "works_count": "537",
+        "fans_count": "18700",
+        "works_count": "538",
         "hometown": "New Delhi",
         "country": "India"
     },
     {
-        "author_id": "3534",
+        "id": "3534",
         "name": "Toni Morrison",
-        "fans_count": "19716",
+        "fans_count": "19739",
         "works_count": "205",
         "hometown": "Lorain, Ohio",
         "country": "United States",
         "birth_year": "1931"
     },
     {
-        "author_id": "4493",
+        "id": "4493",
         "name": "Eckhart Tolle",
-        "fans_count": "9532",
+        "fans_count": "9538",
         "works_count": "251",
         "hometown": "Dortmund",
         "country": "Germany",
         "birth_year": "1948"
     },
     {
-        "author_id": "7136914",
+        "id": "7136914",
         "name": "Ann Patchett",
-        "fans_count": "22176",
+        "fans_count": "22218",
         "works_count": "67",
         "hometown": "Los Angeles, CA",
         "country": "United States",
         "birth_year": "1963"
     },
     {
-        "author_id": "26975",
+        "id": "26975",
         "name": "Gary Zukav",
         "fans_count": "774",
-        "works_count": "46"
+        "works_count": "46",
+        "birth_year": "1963"
     },
     {
-        "author_id": "3535",
+        "id": "3535",
         "name": "William Faulkner",
-        "fans_count": "9420",
-        "works_count": "933",
+        "fans_count": "9426",
+        "works_count": "932",
         "hometown": "New Albany, Mississippi",
         "country": "United States",
         "birth_year": "1897"
     },
     {
-        "author_id": "3537",
+        "id": "3537",
         "name": "Bill Cosby",
         "fans_count": "219",
         "works_count": "137",
@@ -68,48 +69,49 @@
         "birth_year": "1937"
     },
     {
-        "author_id": "18586",
+        "id": "18586",
         "name": "Varnette P. Honeywood",
         "fans_count": "3",
-        "works_count": "21"
+        "works_count": "21",
+        "birth_year": "1937"
     },
     {
-        "author_id": "19475743",
+        "id": "19475743",
         "name": "Ella Berman",
-        "fans_count": "714",
+        "fans_count": "718",
         "works_count": "3",
         "hometown": "London",
         "country": "United Kingdom"
     },
     {
-        "author_id": "6429",
+        "id": "6429",
         "name": "Curtis Sittenfeld",
-        "fans_count": "8233",
+        "fans_count": "8236",
         "works_count": "22",
         "hometown": "Cincinnati"
     },
     {
-        "author_id": "54493",
+        "id": "54493",
         "name": "Kristin Hannah",
-        "fans_count": "226538",
-        "works_count": "134",
+        "fans_count": "226910",
+        "works_count": "130",
         "hometown": "Southern California",
         "country": "United States"
     },
     {
-        "author_id": "155717",
+        "id": "155717",
         "name": "Cheryl Strayed",
-        "fans_count": "12974",
+        "fans_count": "12984",
         "works_count": "35"
     },
     {
-        "author_id": "164692",
+        "id": "164692",
         "name": "Celeste Ng",
-        "fans_count": "90723",
+        "fans_count": "90742",
         "works_count": "16"
     },
     {
-        "author_id": "3525",
+        "id": "3525",
         "name": "Edwidge Danticat",
         "fans_count": "2538",
         "works_count": "117",
@@ -118,61 +120,64 @@
         "birth_year": "1969"
     },
     {
-        "author_id": "17099759",
+        "id": "17099759",
         "name": "Glennon Doyle",
-        "fans_count": "9012",
-        "works_count": "12"
+        "fans_count": "9014",
+        "works_count": "12",
+        "birth_year": "1969"
     },
     {
-        "author_id": "4175328",
+        "id": "4175328",
         "name": "Glennon Doyle Melton",
-        "fans_count": "6587",
-        "works_count": "10"
+        "fans_count": "6588",
+        "works_count": "10",
+        "birth_year": "1969"
     },
     {
-        "author_id": "6572605",
+        "id": "6572605",
         "name": "Taylor Jenkins Reid",
-        "fans_count": "181959",
-        "works_count": "21"
+        "fans_count": "182211",
+        "works_count": "21",
+        "birth_year": "1969"
     },
     {
-        "author_id": "3502",
+        "id": "3502",
         "name": "Alice Hoffman",
-        "fans_count": "22372",
+        "fans_count": "22379",
         "works_count": "112",
         "hometown": "New York, New York"
     },
     {
-        "author_id": "3495853",
+        "id": "3495853",
         "name": "Sarah Ban Breathnach",
         "fans_count": "513",
         "works_count": "52"
     },
     {
-        "author_id": "96150",
+        "id": "96150",
         "name": "Daniel H. Pink",
-        "fans_count": "28640",
-        "works_count": "134"
+        "fans_count": "28641",
+        "works_count": "135"
     },
     {
-        "author_id": "2578",
+        "id": "2578",
         "name": "Jonathan Franzen",
-        "fans_count": "9197",
+        "fans_count": "9202",
         "works_count": "83",
         "hometown": "Chicago, Illinois",
         "country": "United States",
         "birth_year": "1959"
     },
     {
-        "author_id": "3505",
+        "id": "3505",
         "name": "Wally Lamb",
-        "fans_count": "7692",
+        "fans_count": "7695",
         "works_count": "15",
         "hometown": "Norwich, Connecticut",
         "country": "United States"
     },
     {
-        "author_id": "3526",
+        "id": "3526",
         "name": "Jane Hamilton",
         "fans_count": "612",
         "works_count": "88",
@@ -181,44 +186,46 @@
         "birth_year": "1957"
     },
     {
-        "author_id": "7851",
+        "id": "7851",
         "name": "Debbie Ford",
         "fans_count": "294",
         "works_count": "53",
-        "birth_year": "1955"
+        "birth_year": "1957"
     },
     {
-        "author_id": "2780",
+        "id": "2780",
         "name": "Kathy Freston",
         "fans_count": "40",
-        "works_count": "14"
+        "works_count": "14",
+        "birth_year": "1957"
     },
     {
-        "author_id": "9074",
+        "id": "9074",
         "name": "Thich Nhat Hanh",
-        "fans_count": "11368",
-        "works_count": "970",
+        "fans_count": "11378",
+        "works_count": "972",
         "hometown": "Th\u1eeba Thi\u00ean Hu\u1ebf ",
         "country": "Vietnam",
         "birth_year": "1926"
     },
     {
-        "author_id": "11236",
+        "id": "11236",
         "name": "Caroline Myss",
-        "fans_count": "957",
+        "fans_count": "958",
         "works_count": "176",
         "hometown": "Chicago",
         "country": "United States",
         "birth_year": "1952"
     },
     {
-        "author_id": "48422",
+        "id": "48422",
         "name": "Jean Houston",
         "fans_count": "112",
-        "works_count": "100"
+        "works_count": "100",
+        "birth_year": "1952"
     },
     {
-        "author_id": "3501",
+        "id": "3501",
         "name": "Kaye Gibbons",
         "fans_count": "536",
         "works_count": "34",
@@ -226,104 +233,102 @@
         "birth_year": "1960"
     },
     {
-        "author_id": "22640786",
+        "id": "22640786",
         "name": "Yulin Kuang",
-        "fans_count": "546",
-        "works_count": "1"
+        "fans_count": "568",
+        "works_count": "1",
+        "birth_year": "1960"
     },
     {
-        "author_id": "17574140",
+        "id": "17574140",
         "name": "Claire Lombardo",
-        "fans_count": "1750",
+        "fans_count": "1757",
         "works_count": "3",
         "hometown": "Chicago, IL ",
         "country": "United States"
     },
     {
-        "author_id": "14428079",
+        "id": "14428079",
         "name": "X\u00f3chitl Gonz\u00e1lez",
-        "fans_count": "1957",
+        "fans_count": "1963",
         "works_count": "2",
         "hometown": "New York City",
         "country": "United States"
     },
     {
-        "author_id": "2848011",
+        "id": "2848011",
         "name": "DeLana R.A. Dameron",
-        "fans_count": "115",
+        "fans_count": "116",
         "works_count": "5"
     },
     {
-        "author_id": "5317545",
+        "id": "5317545",
         "name": "Ashley Elston",
-        "fans_count": "3416",
-        "works_count": "7",
-        "birth_year": "1973"
+        "fans_count": "3445",
+        "works_count": "7"
     },
     {
-        "author_id": "21300891",
+        "id": "21300891",
         "name": "Cesca Major",
-        "fans_count": "140",
+        "fans_count": "141",
         "works_count": "8"
     },
     {
-        "author_id": "9823112",
+        "id": "9823112",
         "name": "Alix E. Harrow",
-        "fans_count": "20091",
-        "works_count": "42",
-        "birth_year": "1989"
+        "fans_count": "20111",
+        "works_count": "42"
     },
     {
-        "author_id": "3408558",
+        "id": "3408558",
         "name": "Nina Simon",
-        "fans_count": "701",
+        "fans_count": "710",
         "works_count": "4",
         "hometown": "Los Angeles",
         "country": "United States"
     },
     {
-        "author_id": "16820001",
+        "id": "16820001",
         "name": "R.F. Kuang",
-        "fans_count": "52434",
+        "fans_count": "52592",
         "works_count": "23"
     },
     {
-        "author_id": "5824402",
+        "id": "5824402",
         "name": "Holly Smale",
-        "fans_count": "1972",
-        "works_count": "30",
-        "birth_year": "1981"
+        "fans_count": "1975",
+        "works_count": "31"
     },
     {
-        "author_id": "21374014",
+        "id": "21374014",
         "name": "Crystal Smith Paul",
-        "fans_count": "518",
+        "fans_count": "522",
         "works_count": "1"
     },
     {
-        "author_id": "5444044",
+        "id": "5444044",
         "name": "Sadeqa Johnson",
-        "fans_count": "3992",
+        "fans_count": "3999",
         "works_count": "7",
         "hometown": "Philadelphia",
         "country": "United States"
     },
     {
-        "author_id": "22458670",
+        "id": "22458670",
         "name": "Ana  Reyes",
-        "fans_count": "973",
+        "fans_count": "975",
         "works_count": "1"
     },
     {
-        "author_id": "91236",
+        "id": "91236",
         "name": "Maggie O'Farrell",
-        "fans_count": "12622",
-        "works_count": "39",
+        "fans_count": "12633",
+        "works_count": "37",
         "hometown": " Coleraine",
         "country": "United Kingdom"
     },
     {
-        "author_id": "28596",
+        "id": "28596",
         "name": "Steve Almond",
         "fans_count": "438",
         "works_count": "77",
@@ -331,78 +336,79 @@
         "country": "United States"
     },
     {
-        "author_id": "16336300",
+        "id": "16336300",
         "name": "Margaret Wilkerson Sexton",
         "fans_count": "634",
         "works_count": "6"
     },
     {
-        "author_id": "15967497",
+        "id": "15967497",
         "name": "Gillian McAllister",
-        "fans_count": "6636",
-        "works_count": "16"
+        "fans_count": "6653",
+        "works_count": "14"
     },
     {
-        "author_id": "19331796",
+        "id": "19331796",
         "name": "Bolu Babalola",
-        "fans_count": "1598",
+        "fans_count": "1601",
         "works_count": "4",
         "hometown": "Southwark, London",
         "country": "United Kingdom",
         "birth_year": "1991"
     },
     {
-        "author_id": "7108479",
+        "id": "7108479",
         "name": "Kirstin Chen",
-        "fans_count": "866",
-        "works_count": "7"
+        "fans_count": "867",
+        "works_count": "7",
+        "birth_year": "1991"
     },
     {
-        "author_id": "15290215",
+        "id": "15290215",
         "name": "Pip Williams",
-        "fans_count": "1858",
+        "fans_count": "1862",
         "works_count": "17",
         "hometown": "London",
         "country": "United Kingdom"
     },
     {
-        "author_id": "8288614",
+        "id": "8288614",
         "name": "Sara Novi\u0107",
-        "fans_count": "1424",
+        "fans_count": "1425",
         "works_count": "7"
     },
     {
-        "author_id": "19874425",
+        "id": "19874425",
         "name": "Ellery Lloyd",
-        "fans_count": "947",
+        "fans_count": "950",
         "works_count": "6"
     },
     {
-        "author_id": "370442",
+        "id": "370442",
         "name": "Nina de Gramont",
-        "fans_count": "808",
+        "fans_count": "809",
         "works_count": "8",
         "hometown": "Englewood, NJ",
         "country": "United States"
     },
     {
-        "author_id": "15485047",
+        "id": "15485047",
         "name": "Dana Schwartz",
-        "fans_count": "3470",
+        "fans_count": "3478",
         "works_count": "19",
         "hometown": "Chicago",
         "country": "United States"
     },
     {
-        "author_id": "127875",
+        "id": "127875",
         "name": "Thrity Umrigar",
-        "fans_count": "2510",
+        "fans_count": "2513",
         "works_count": "21",
         "hometown": "Mumbai",
         "country": "India"
     },
     {
-        "author_id": "7382096",
+        "id": "7382096",
         "name": "Marissa Stapley",
         "fans_count": "861",
         "works_count": "9",
@@ -410,13 +416,13 @@
         "country": "Canada"
     },
     {
-        "author_id": "6542440",
+        "id": "6542440",
         "name": "Elif Shafak",
-        "fans_count": "27426",
+        "fans_count": "27441",
         "works_count": "56"
     },
     {
-        "author_id": "5147513",
+        "id": "5147513",
         "name": "Chibundu Onuzo",
         "fans_count": "607",
         "works_count": "9",
@@ -424,139 +430,139 @@
         "country": "Nigeria"
     },
     {
-        "author_id": "20175761",
+        "id": "20175761",
         "name": "Lauren Blackwood",
-        "fans_count": "780",
-        "works_count": "3",
-        "birth_year": "1987"
+        "fans_count": "782",
+        "works_count": "3"
     },
     {
-        "author_id": "3215754",
+        "id": "3215754",
         "name": "Mar\u00eda Amparo Escand\u00f3n",
         "fans_count": "238",
-        "works_count": "7",
-        "birth_year": "1957"
+        "works_count": "7"
     },
     {
-        "author_id": "3488726",
+        "id": "3488726",
         "name": "Andrea Bartz",
-        "fans_count": "2104",
+        "fans_count": "2107",
         "works_count": "9",
         "hometown": "Milwaukee, WI",
         "country": "United States"
     },
     {
-        "author_id": "7267239",
+        "id": "7267239",
         "name": "Stacey  Lee",
-        "fans_count": "2278",
+        "fans_count": "2279",
         "works_count": "10"
     },
     {
-        "author_id": "19995544",
+        "id": "19995544",
         "name": "Miranda Cowley Heller",
-        "fans_count": "3124",
+        "fans_count": "3130",
         "works_count": "2"
     },
     {
-        "author_id": "306028",
+        "id": "306028",
         "name": "Tia Williams",
-        "fans_count": "3895",
+        "fans_count": "3898",
         "works_count": "24",
         "hometown": "Fairfax, VA",
         "country": "United States"
     },
     {
-        "author_id": "8178238",
+        "id": "8178238",
         "name": "Emiko Jean",
-        "fans_count": "2038",
+        "fans_count": "2052",
         "works_count": "8"
     },
     {
-        "author_id": "2672",
+        "id": "2672",
         "name": "Laura Dave",
-        "fans_count": "8784",
+        "fans_count": "8793",
         "works_count": "12",
         "hometown": "New York"
     },
     {
-        "author_id": "14551774",
+        "id": "14551774",
         "name": "Flynn Berry",
-        "fans_count": "1290",
+        "fans_count": "1291",
         "works_count": "7"
     },
     {
-        "author_id": "19633027",
+        "id": "19633027",
         "name": "Angeline Boulley",
-        "fans_count": "4587",
+        "fans_count": "4597",
         "works_count": "6"
     },
     {
-        "author_id": "3510974",
+        "id": "3510974",
         "name": "Patricia Engel",
         "fans_count": "927",
         "works_count": "18"
     },
     {
-        "author_id": "20458083",
+        "id": "20458083",
         "name": "Sarah  Pearse",
-        "fans_count": "2866",
+        "fans_count": "2870",
         "works_count": "4"
     },
     {
-        "author_id": "18673646",
+        "id": "18673646",
         "name": "Emma Lord",
-        "fans_count": "3701",
-        "works_count": "13",
-        "birth_year": "1991"
+        "fans_count": "3706",
+        "works_count": "9"
     },
     {
-        "author_id": "4601475",
+        "id": "4601475",
         "name": "Anna North",
-        "fans_count": "678",
+        "fans_count": "679",
         "works_count": "11"
     },
     {
-        "author_id": "190578",
+        "id": "190578",
         "name": "Sharon Cameron",
-        "fans_count": "1929",
+        "fans_count": "1930",
         "works_count": "22"
     },
     {
-        "author_id": "3944366",
+        "id": "3944366",
         "name": "K.J. Dell'Antonia",
-        "fans_count": "561",
+        "fans_count": "563",
         "works_count": "9",
         "hometown": "Dallas, TX",
         "country": "United States"
     },
     {
-        "author_id": "18157293",
+        "id": "18157293",
         "name": "Laura Taylor Namey",
-        "fans_count": "871",
+        "fans_count": "872",
         "works_count": "6",
         "hometown": "San Diego",
         "birth_year": "1974"
     },
     {
-        "author_id": "19986899",
+        "id": "19986899",
         "name": "Christie Tate",
         "fans_count": "288",
-        "works_count": "3"
+        "works_count": "3",
+        "birth_year": "1974"
     },
     {
-        "author_id": "16640489",
+        "id": "16640489",
         "name": "Adrienne Young",
-        "fans_count": "13226",
-        "works_count": "21"
+        "fans_count": "13261",
+        "works_count": "21",
+        "birth_year": "1974"
     },
     {
-        "author_id": "19802137",
+        "id": "19802137",
         "name": "Peace Adzo Medie",
-        "fans_count": "460",
-        "works_count": "5"
+        "fans_count": "461",
+        "works_count": "3",
+        "birth_year": "1974"
     },
     {
-        "author_id": "17449798",
+        "id": "17449798",
         "name": "Yamile Saied M\u00e9ndez",
         "fans_count": "651",
         "works_count": "36",
@@ -564,73 +570,73 @@
         "country": "Argentina"
     },
     {
-        "author_id": "19816320",
+        "id": "19816320",
         "name": "Nancy Jooyoun Kim",
-        "fans_count": "450",
+        "fans_count": "452",
         "works_count": "3"
     },
     {
-        "author_id": "19092822",
+        "id": "19092822",
         "name": "Leah  Johnson",
         "fans_count": "1453",
         "works_count": "5"
     },
     {
-        "author_id": "14160036",
+        "id": "14160036",
         "name": "Austin Channing Brown",
         "fans_count": "950",
         "works_count": "6"
     },
     {
-        "author_id": "7770523",
+        "id": "7770523",
         "name": "Lucy Foley",
-        "fans_count": "27064",
+        "fans_count": "27152",
         "works_count": "20",
         "hometown": "London",
         "country": "United Kingdom"
     },
     {
-        "author_id": "18257842",
+        "id": "18257842",
         "name": "Alka Joshi",
-        "fans_count": "4215",
+        "fans_count": "4222",
         "works_count": "8",
         "hometown": "Jodhpur",
         "country": "India"
     },
     {
-        "author_id": "24409",
+        "id": "24409",
         "name": "Amanda Eyre Ward",
-        "fans_count": "1293",
+        "fans_count": "1295",
         "works_count": "20",
         "hometown": "New York City",
         "country": "United States"
     },
     {
-        "author_id": "702360",
+        "id": "702360",
         "name": "Erica Bauermeister",
-        "fans_count": "2510",
+        "fans_count": "2512",
         "works_count": "16",
         "hometown": "Pasadena, California",
         "country": "United States"
     },
     {
-        "author_id": "54069",
+        "id": "54069",
         "name": "Denise Mina",
-        "fans_count": "2309",
+        "fans_count": "2308",
         "works_count": "105",
         "hometown": "Glasgow",
         "country": "United Kingdom"
     },
     {
-        "author_id": "281810",
+        "id": "281810",
         "name": "Jojo Moyes",
-        "fans_count": "62074",
-        "works_count": "117",
+        "fans_count": "62113",
+        "works_count": "120",
         "hometown": "London, England",
         "country": "United Kingdom"
     },
     {
-        "author_id": "18895257",
+        "id": "18895257",
         "name": "Eve Rodsky",
         "fans_count": "247",
         "works_count": "13",
@@ -638,7 +644,7 @@
         "country": "United States"
     },
     {
-        "author_id": "9776379",
+        "id": "9776379",
         "name": "Lara Prescott",
         "fans_count": "935",
         "works_count": "4",
@@ -646,94 +652,101 @@
         "country": "United States"
     },
     {
-        "author_id": "4417749",
+        "id": "4417749",
         "name": "Megan Miranda",
-        "fans_count": "15744",
+        "fans_count": "15777",
         "works_count": "20"
     },
     {
-        "author_id": "7214344",
+        "id": "7214344",
         "name": "Chandler Baker",
-        "fans_count": "1748",
+        "fans_count": "1751",
         "works_count": "17"
     },
     {
-        "author_id": "17024317",
+        "id": "17024317",
         "name": "Sarah  Haywood",
-        "fans_count": "698",
+        "fans_count": "699",
         "works_count": "2"
     },
     {
-        "author_id": "18498709",
+        "id": "18498709",
         "name": "Tembi Locke",
         "fans_count": "812",
         "works_count": "1"
     },
     {
-        "author_id": "6547911",
+        "id": "6547911",
         "name": "Yangsze Choo",
-        "fans_count": "10358",
+        "fans_count": "10367",
         "works_count": "5"
     },
     {
-        "author_id": "16287225",
+        "id": "16287225",
         "name": "Jasmine Guillory",
-        "fans_count": "22516",
+        "fans_count": "22529",
         "works_count": "22"
     },
     {
-        "author_id": "45374",
+        "id": "45374",
         "name": "Susan Orlean",
-        "fans_count": "4121",
+        "fans_count": "4122",
         "works_count": "52",
         "hometown": "Cleveland, OH (CLE)",
         "country": "United States",
         "birth_year": "1955"
     },
     {
-        "author_id": "16737899",
+        "id": "16737899",
         "name": "Josie Silver",
-        "fans_count": "7721",
-        "works_count": "7"
+        "fans_count": "7727",
+        "works_count": "7",
+        "birth_year": "1955"
     },
     {
-        "author_id": "3917070",
+        "id": "3917070",
         "name": "Sandie Jones",
-        "fans_count": "2987",
-        "works_count": "17"
+        "fans_count": "2989",
+        "works_count": "17",
+        "birth_year": "1955"
     },
     {
-        "author_id": "300536",
+        "id": "300536",
         "name": "Laurie Frankel",
-        "fans_count": "3372",
-        "works_count": "23"
+        "fans_count": "3379",
+        "works_count": "23",
+        "birth_year": "1955"
     },
     {
-        "author_id": "7043934",
+        "id": "7043934",
         "name": "Delia Owens",
-        "fans_count": "17696",
-        "works_count": "29"
+        "fans_count": "17697",
+        "works_count": "30",
+        "birth_year": "1955"
     },
     {
-        "author_id": "790462",
+        "id": "790462",
         "name": "Maria Hummel",
         "fans_count": "312",
-        "works_count": "13"
+        "works_count": "13",
+        "birth_year": "1955"
     },
     {
-        "author_id": "7383025",
+        "id": "7383025",
         "name": "Chanel Cleeton",
-        "fans_count": "6581",
-        "works_count": "21"
+        "fans_count": "6585",
+        "works_count": "21",
+        "birth_year": "1955"
     },
     {
-        "author_id": "16847770",
+        "id": "16847770",
         "name": "Catherine Steadman",
-        "fans_count": "4736",
-        "works_count": "8"
+        "fans_count": "4743",
+        "works_count": "8",
+        "birth_year": "1955"
     },
     {
-        "author_id": "16325236",
+        "id": "16325236",
         "name": "Heather Harpham",
         "fans_count": "202",
         "works_count": "3",
@@ -741,74 +754,73 @@
         "country": "United States"
     },
     {
-        "author_id": "6924387",
+        "id": "6924387",
         "name": "Balli Kaur Jaswal",
         "fans_count": "2373",
-        "works_count": "17",
-        "birth_year": "1983"
+        "works_count": "17"
     },
     {
-        "author_id": "1251059",
+        "id": "1251059",
         "name": "Jill Santopolo",
         "fans_count": "2906",
         "works_count": "34"
     },
     {
-        "author_id": "162578",
+        "id": "162578",
         "name": "Bren\u00e9 Brown",
-        "fans_count": "51296",
-        "works_count": "58"
+        "fans_count": "51316",
+        "works_count": "74"
     },
     {
-        "author_id": "16360992",
+        "id": "16360992",
         "name": "Liv Constantine",
-        "fans_count": "7673",
+        "fans_count": "7694",
         "works_count": "12"
     },
     {
-        "author_id": "9013543",
+        "id": "9013543",
         "name": "Ruth Ware",
-        "fans_count": "39883",
+        "fans_count": "39962",
         "works_count": "28"
     },
     {
-        "author_id": "2974095",
+        "id": "2974095",
         "name": "Kate Quinn",
-        "fans_count": "28231",
-        "works_count": "28"
+        "fans_count": "28262",
+        "works_count": "27"
     },
     {
-        "author_id": "14558709",
+        "id": "14558709",
         "name": "Gail Honeyman",
-        "fans_count": "12432",
+        "fans_count": "12435",
         "works_count": "6",
         "hometown": "Stirling, Scotland",
         "country": "United Kingdom"
     },
     {
-        "author_id": "3520",
+        "id": "3520",
         "name": "Sheri Reynolds",
         "fans_count": "294",
         "works_count": "14"
     },
     {
-        "author_id": "239579",
+        "id": "239579",
         "name": "Charles Dickens",
-        "fans_count": "28709",
-        "works_count": "15027",
+        "fans_count": "28713",
+        "works_count": "12713",
         "hometown": "Portsmouth, England",
         "country": "United Kingdom",
         "birth_year": "1812"
     },
     {
-        "author_id": "3252390",
+        "id": "3252390",
         "name": "Gabrielle Bernstein",
         "fans_count": "2398",
         "works_count": "51",
         "hometown": "New York"
     },
     {
-        "author_id": "3510",
+        "id": "3510",
         "name": "Billie Letts",
         "fans_count": "855",
         "works_count": "8",
@@ -817,21 +829,22 @@
         "birth_year": "1938"
     },
     {
-        "author_id": "3513",
+        "id": "3513",
         "name": "Christina Schwarz",
         "fans_count": "388",
-        "works_count": "16"
+        "works_count": "16",
+        "birth_year": "1938"
     },
     {
-        "author_id": "3540",
+        "id": "3540",
         "name": "Janet Fitch",
-        "fans_count": "88680",
+        "fans_count": "88682",
         "works_count": "29",
         "hometown": "Los Angeles, California",
         "country": "United States"
     },
     {
-        "author_id": "45141",
+        "id": "45141",
         "name": "Sidney Poitier",
         "fans_count": "122",
         "works_count": "22",
@@ -840,46 +853,48 @@
         "birth_year": "1927"
     },
     {
-        "author_id": "3541",
+        "id": "3541",
         "name": "Barbara Kingsolver",
-        "fans_count": "22387",
+        "fans_count": "22414",
         "works_count": "79",
         "hometown": "Annapolis, Maryland",
         "country": "United States",
         "birth_year": "1955"
     },
     {
-        "author_id": "3166446",
+        "id": "3166446",
         "name": "Dean Robertson",
         "fans_count": "4",
-        "works_count": "24"
+        "works_count": "24",
+        "birth_year": "1955"
     },
     {
-        "author_id": "55044",
+        "id": "55044",
         "name": "Joel Osteen",
-        "fans_count": "1619",
+        "fans_count": "1620",
         "works_count": "489",
         "hometown": "Houston, Texas",
         "country": "United States",
         "birth_year": "1963"
     },
     {
-        "author_id": "15508",
+        "id": "15508",
         "name": "Iyanla Vanzant",
         "fans_count": "1236",
-        "works_count": "127"
+        "works_count": "127",
+        "birth_year": "1963"
     },
     {
-        "author_id": "2894",
+        "id": "2894",
         "name": "Bernhard Schlink",
-        "fans_count": "1803",
+        "fans_count": "1802",
         "works_count": "74",
         "hometown": "Bielefeld",
         "country": "Germany",
         "birth_year": "1944"
     },
     {
-        "author_id": "58512",
+        "id": "58512",
         "name": "Carol Brown Janeway",
         "fans_count": "14",
         "works_count": "21",
@@ -887,7 +902,7 @@
         "birth_year": "1944"
     },
     {
-        "author_id": "251177",
+        "id": "251177",
         "name": "Campbell Scott",
         "fans_count": "4",
         "works_count": "63",
@@ -895,15 +910,15 @@
         "birth_year": "1961"
     },
     {
-        "author_id": "4711",
+        "id": "4711",
         "name": "Sue Monk Kidd",
-        "fans_count": "12798",
-        "works_count": "46",
+        "fans_count": "12804",
+        "works_count": "47",
         "hometown": "Sylvester, Georgia",
         "country": "United States"
     },
     {
-        "author_id": "3530",
+        "id": "3530",
         "name": "Anita Shreve",
         "fans_count": "4305",
         "works_count": "99",
@@ -912,7 +927,7 @@
         "birth_year": "1946"
     },
     {
-        "author_id": "557502",
+        "id": "557502",
         "name": "David Strathairn",
         "fans_count": "1",
         "works_count": "28",
@@ -921,7 +936,7 @@
         "birth_year": "1949"
     },
     {
-        "author_id": "671031",
+        "id": "671031",
         "name": "Mary Beth Hurt",
         "fans_count": "5",
         "works_count": "12",
@@ -930,39 +945,40 @@
         "birth_year": "1946"
     },
     {
-        "author_id": "1467",
+        "id": "1467",
         "name": "Jeffrey Eugenides",
-        "fans_count": "9565",
+        "fans_count": "9567",
         "works_count": "34",
         "hometown": "Detroit, Michigan",
         "country": "United States",
         "birth_year": "1960"
     },
     {
-        "author_id": "3514",
+        "id": "3514",
         "name": "Tawni O'Dell",
-        "fans_count": "576",
-        "works_count": "11"
+        "fans_count": "577",
+        "works_count": "11",
+        "birth_year": "1960"
     },
     {
-        "author_id": "3509",
+        "id": "3509",
         "name": "Chris Bohjalian",
-        "fans_count": "12016",
+        "fans_count": "12028",
         "works_count": "35",
         "hometown": "White Plains, New York",
         "country": "United States"
     },
     {
-        "author_id": "3517",
+        "id": "3517",
         "name": "Sue Miller",
-        "fans_count": "877",
+        "fans_count": "878",
         "works_count": "56",
         "hometown": "Chicago, Illinois",
         "country": "United States",
         "birth_year": "1943"
     },
     {
-        "author_id": "507057",
+        "id": "507057",
         "name": "Blair Brown",
         "fans_count": "11",
         "works_count": "90",
@@ -971,7 +987,7 @@
         "birth_year": "1946"
     },
     {
-        "author_id": "96531",
+        "id": "96531",
         "name": "Breena Clarke",
         "fans_count": "78",
         "works_count": "10",
@@ -979,36 +995,38 @@
         "country": "United States"
     },
     {
-        "author_id": "3500",
+        "id": "3500",
         "name": "Anna Quindlen",
-        "fans_count": "4206",
+        "fans_count": "4214",
         "works_count": "97",
         "hometown": "Philadelphia, Pennsylvania",
         "country": "United States",
         "birth_year": "1952"
     },
     {
-        "author_id": "72900",
+        "id": "72900",
         "name": "Elizabeth Lesser",
         "fans_count": "330",
-        "works_count": "10"
+        "works_count": "10",
+        "birth_year": "1952"
     },
     {
-        "author_id": "5790652",
+        "id": "5790652",
         "name": "Varnette Hon Eywood",
         "fans_count": "1",
-        "works_count": "2"
+        "works_count": "2",
+        "birth_year": "1952"
     },
     {
-        "author_id": "248119",
+        "id": "248119",
         "name": "Llewellyn Vaughan-Lee",
         "fans_count": "115",
-        "works_count": "59",
+        "works_count": "60",
         "hometown": "London",
         "country": "United Kingdom"
     },
     {
-        "author_id": "702",
+        "id": "702",
         "name": "Robert Morgan",
         "fans_count": "372",
         "works_count": "249",
@@ -1017,14 +1035,14 @@
         "birth_year": "1944"
     },
     {
-        "author_id": "125190",
+        "id": "125190",
         "name": "Marie Forleo",
-        "fans_count": "655",
+        "fans_count": "656",
         "works_count": "10",
         "hometown": "New Jersey"
     },
     {
-        "author_id": "3516",
+        "id": "3516",
         "name": "Pearl Cleage",
         "fans_count": "560",
         "works_count": "35",
@@ -1033,20 +1051,21 @@
         "birth_year": "1948"
     },
     {
-        "author_id": "18575",
+        "id": "18575",
         "name": "Malika Oufkir",
         "fans_count": "643",
         "works_count": "5",
-        "birth_year": "1953"
+        "birth_year": "1948"
     },
     {
-        "author_id": "208260",
+        "id": "208260",
         "name": "Mich\u00e8le Fitoussi",
         "fans_count": "7",
-        "works_count": "33"
+        "works_count": "33",
+        "birth_year": "1948"
     },
     {
-        "author_id": "3504",
+        "id": "3504",
         "name": "Jacquelyn Mitchard",
         "fans_count": "1148",
         "works_count": "62",
@@ -1054,47 +1073,49 @@
         "country": "United States"
     },
     {
-        "author_id": "9785",
+        "id": "9785",
         "name": "Andre Dubus III",
         "fans_count": "1014",
-        "works_count": "37",
+        "works_count": "38",
         "hometown": "Oceanside, California",
         "country": "United States",
         "birth_year": "1959"
     },
     {
-        "author_id": "2622245",
+        "id": "2622245",
         "name": "Lao Tzu",
-        "fans_count": "3991",
-        "works_count": "471"
+        "fans_count": "3996",
+        "works_count": "472",
+        "birth_year": "1959"
     },
     {
-        "author_id": "1226095",
+        "id": "1226095",
         "name": "Gia-Fu Feng",
         "fans_count": "15",
-        "works_count": "12"
+        "works_count": "12",
+        "birth_year": "1959"
     },
     {
-        "author_id": "38289",
+        "id": "38289",
         "name": "Jane English",
         "fans_count": "16",
         "works_count": "30",
         "hometown": "Massachusetts"
     },
     {
-        "author_id": "122252",
+        "id": "122252",
         "name": "Chungliang Al Huang",
         "fans_count": "27",
         "works_count": "45"
     },
     {
-        "author_id": "64864",
+        "id": "64864",
         "name": "Rowena Pattee Kryder",
         "fans_count": "2",
         "works_count": "17"
     },
     {
-        "author_id": "192322",
+        "id": "192322",
         "name": "Toinette Lippe",
         "fans_count": "7",
         "works_count": "6",
@@ -1102,30 +1123,29 @@
         "country": "United Kingdom"
     },
     {
-        "author_id": "72902",
+        "id": "72902",
         "name": "T.D. Jakes",
         "fans_count": "1101",
-        "works_count": "448",
-        "birth_year": "1957"
+        "works_count": "448"
     },
     {
-        "author_id": "3536",
+        "id": "3536",
         "name": "Ursula Hegi",
-        "fans_count": "849",
+        "fans_count": "848",
         "works_count": "22",
         "hometown": "D\u00fcsseldorf",
         "country": "Germany",
         "birth_year": "1946"
     },
     {
-        "author_id": "6575052",
+        "id": "6575052",
         "name": "Cynthia Bond",
         "fans_count": "387",
         "works_count": "4",
         "hometown": "Texas"
     },
     {
-        "author_id": "1033445",
+        "id": "1033445",
         "name": "Uwem Akpan",
         "fans_count": "166",
         "works_count": "13",
@@ -1134,28 +1154,30 @@
         "birth_year": "1971"
     },
     {
-        "author_id": "950132",
+        "id": "950132",
         "name": "Michael A. Singer",
-        "fans_count": "2356",
-        "works_count": "55"
+        "fans_count": "2360",
+        "works_count": "56",
+        "birth_year": "1971"
     },
     {
-        "author_id": "2350",
+        "id": "2350",
         "name": "Gwyn Hyman Rubio",
         "fans_count": "116",
-        "works_count": "5"
+        "works_count": "4",
+        "birth_year": "1971"
     },
     {
-        "author_id": "17297",
+        "id": "17297",
         "name": "Marianne Williamson",
-        "fans_count": "2185",
+        "fans_count": "2186",
         "works_count": "346",
         "hometown": "Houston, Texas",
         "country": "United States",
         "birth_year": "1952"
     },
     {
-        "author_id": "3521",
+        "id": "3521",
         "name": "Bret Lott",
         "fans_count": "144",
         "works_count": "45",
@@ -1163,20 +1185,20 @@
         "country": "United States"
     },
     {
-        "author_id": "53088",
+        "id": "53088",
         "name": "Patrick McDonnell",
         "fans_count": "364",
         "works_count": "170",
         "hometown": "Elizabeth"
     },
     {
-        "author_id": "14196420",
+        "id": "14196420",
         "name": "Imbolo Mbue",
         "fans_count": "2363",
         "works_count": "6"
     },
     {
-        "author_id": "3527",
+        "id": "3527",
         "name": "Alan Paton",
         "fans_count": "538",
         "works_count": "102",
@@ -1185,16 +1207,16 @@
         "birth_year": "1903"
     },
     {
-        "author_id": "20105",
+        "id": "20105",
         "name": "Joseph Campbell",
-        "fans_count": "5443",
+        "fans_count": "5445",
         "works_count": "360",
         "hometown": "White Plains, NY",
         "country": "United States",
         "birth_year": "1904"
     },
     {
-        "author_id": "79993",
+        "id": "79993",
         "name": "Phil Cousineau",
         "fans_count": "86",
         "works_count": "64",
@@ -1203,51 +1225,53 @@
         "birth_year": "1952"
     },
     {
-        "author_id": "2338628",
+        "id": "2338628",
         "name": "Michelle Obama",
-        "fans_count": "109736",
-        "works_count": "43",
+        "fans_count": "109808",
+        "works_count": "44",
         "hometown": "Chicago, Illinois",
         "country": "United States"
     },
     {
-        "author_id": "291056",
+        "id": "291056",
         "name": "Colin Beavan",
         "fans_count": "48",
         "works_count": "13"
     },
     {
-        "author_id": "3506",
+        "id": "3506",
         "name": "Carson McCullers",
-        "fans_count": "2778",
-        "works_count": "150",
+        "fans_count": "2779",
+        "works_count": "151",
         "hometown": "Columbus, Georgia",
         "country": "United States",
         "birth_year": "1917"
     },
     {
-        "author_id": "101307",
+        "id": "101307",
         "name": "Robert O. Young",
         "fans_count": "18",
-        "works_count": "54"
+        "works_count": "54",
+        "birth_year": "1917"
     },
     {
-        "author_id": "64539",
+        "id": "64539",
         "name": "Shelley Redford Young",
         "fans_count": "1",
-        "works_count": "14"
+        "works_count": "14",
+        "birth_year": "1917"
     },
     {
-        "author_id": "3539",
+        "id": "3539",
         "name": "Rohinton Mistry",
-        "fans_count": "3278",
-        "works_count": "28",
+        "fans_count": "3279",
+        "works_count": "40",
         "hometown": "Bombay",
         "country": "India",
         "birth_year": "1952"
     },
     {
-        "author_id": "17693",
+        "id": "17693",
         "name": "Madhur Jaffrey",
         "fans_count": "179",
         "works_count": "71",
@@ -1256,25 +1280,28 @@
         "birth_year": "1933"
     },
     {
-        "author_id": "4427460",
+        "id": "4427460",
         "name": "DeVon Franklin",
         "fans_count": "196",
-        "works_count": "12"
+        "works_count": "12",
+        "birth_year": "1933"
     },
     {
-        "author_id": "5392",
+        "id": "5392",
         "name": "Tim Vandehey",
         "fans_count": "9",
-        "works_count": "31"
+        "works_count": "31",
+        "birth_year": "1933"
     },
     {
-        "author_id": "5204412",
+        "id": "5204412",
         "name": "Ayana Mathis",
         "fans_count": "591",
-        "works_count": "8"
+        "works_count": "8",
+        "birth_year": "1933"
     },
     {
-        "author_id": "3515",
+        "id": "3515",
         "name": "Ann-Marie MacDonald",
         "fans_count": "1222",
         "works_count": "17",
@@ -1283,16 +1310,16 @@
         "birth_year": "1958"
     },
     {
-        "author_id": "704",
+        "id": "704",
         "name": "Pearl S. Buck",
-        "fans_count": "2627",
+        "fans_count": "2628",
         "works_count": "686",
         "hometown": "Hillsboro, West Virginia",
         "country": "United States",
         "birth_year": "1892"
     },
     {
-        "author_id": "3519",
+        "id": "3519",
         "name": "Melinda Haynes",
         "fans_count": "69",
         "works_count": "11",
@@ -1301,7 +1328,7 @@
         "birth_year": "1955"
     },
     {
-        "author_id": "58843",
+        "id": "58843",
         "name": "A. Manette Ansay",
         "fans_count": "144",
         "works_count": "15",
@@ -1310,16 +1337,15 @@
         "birth_year": "1964"
     },
     {
-        "author_id": "1049",
+        "id": "1049",
         "name": "Elie Wiesel",
-        "fans_count": "4272",
-        "works_count": "319",
-        "hometown": "Sighet",
-        "country": "Romania",
+        "fans_count": "4276",
+        "works_count": "320",
+        "hometown": "Sighet, Kingdom of Romania",
         "birth_year": "1928"
     },
     {
-        "author_id": "329396",
+        "id": "329396",
         "name": "Marion Wiesel",
         "fans_count": "55",
         "works_count": "17",
@@ -1327,46 +1353,46 @@
         "country": "Austria"
     },
     {
-        "author_id": "61023",
+        "id": "61023",
         "name": "Fran\u00e7ois Mauriac",
-        "fans_count": "342",
+        "fans_count": "343",
         "works_count": "629",
         "hometown": "Bordeaux",
         "country": "France",
         "birth_year": "1885"
     },
     {
-        "author_id": "1166158",
+        "id": "1166158",
         "name": "Rameshwar Das",
         "fans_count": "6",
-        "works_count": "6"
+        "works_count": "6",
+        "birth_year": "1885"
     },
     {
-        "author_id": "10029",
+        "id": "10029",
         "name": "Colson Whitehead",
-        "fans_count": "16778",
-        "works_count": "34",
+        "fans_count": "16790",
+        "works_count": "33",
         "hometown": "New York City, New York",
         "country": "United States"
     },
     {
-        "author_id": "87561",
+        "id": "87561",
         "name": "Mary Catherine Bateson",
         "fans_count": "59",
-        "works_count": "37",
-        "birth_year": "1939"
+        "works_count": "37"
     },
     {
-        "author_id": "13450",
+        "id": "13450",
         "name": "Gabriel Garc\u00eda M\u00e1rquez",
-        "fans_count": "37034",
-        "works_count": "821",
+        "fans_count": "37129",
+        "works_count": "827",
         "hometown": "Aracataca, Magdalena",
         "country": "Colombia",
         "birth_year": "1927"
     },
     {
-        "author_id": "2599",
+        "id": "2599",
         "name": "Edith Grossman",
         "fans_count": "102",
         "works_count": "76",
@@ -1375,49 +1401,50 @@
         "birth_year": "1936"
     },
     {
-        "author_id": "822",
+        "id": "822",
         "name": "James Frey",
-        "fans_count": "2903",
+        "fans_count": "2904",
         "works_count": "167",
         "hometown": "Cleveland, Ohio",
         "country": "United States",
         "birth_year": "1969"
     },
     {
-        "author_id": "8057480",
+        "id": "8057480",
         "name": "G. M\u00e1rquez",
         "fans_count": "0",
-        "works_count": "1"
+        "works_count": "2",
+        "birth_year": "1969"
     },
     {
-        "author_id": "3532",
+        "id": "3532",
         "name": "Maeve Binchy",
-        "fans_count": "4556",
+        "fans_count": "4558",
         "works_count": "227",
         "hometown": "Dalkey, County Dublin",
         "country": "Ireland",
         "birth_year": "1940"
     },
     {
-        "author_id": "1077326",
+        "id": "1077326",
         "name": "J.K. Rowling",
-        "fans_count": "226231",
-        "works_count": "632",
+        "fans_count": "226246",
+        "works_count": "633",
         "hometown": "Yate, South Gloucestershire, England",
         "country": "United Kingdom",
         "birth_year": "1965"
     },
     {
-        "author_id": "4178",
+        "id": "4178",
         "name": "Cormac McCarthy",
-        "fans_count": "24654",
+        "fans_count": "24668",
         "works_count": "57",
         "hometown": "Providence, Rhode Island",
         "country": "United States",
         "birth_year": "1933"
     },
     {
-        "author_id": "102053",
+        "id": "102053",
         "name": "Ruby Dee",
         "fans_count": "18",
         "works_count": "41",
@@ -1426,21 +1453,22 @@
         "birth_year": "1924"
     },
     {
-        "author_id": "23107580",
+        "id": "23107580",
         "name": "Reverend Ed Bacon",
         "fans_count": "0",
-        "works_count": "2"
+        "works_count": "2",
+        "birth_year": "1924"
     },
     {
-        "author_id": "11679",
+        "id": "11679",
         "name": "Elizabeth Gilbert",
-        "fans_count": "32978",
-        "works_count": "49",
+        "fans_count": "32987",
+        "works_count": "51",
         "hometown": "Waterbury, Connecticut",
         "country": "United States"
     },
     {
-        "author_id": "711",
+        "id": "711",
         "name": "Rick Warren",
         "fans_count": "1701",
         "works_count": "488",
@@ -1449,7 +1477,7 @@
         "birth_year": "1954"
     },
     {
-        "author_id": "3522",
+        "id": "3522",
         "name": "Mary McGarry Morris",
         "fans_count": "170",
         "works_count": "16",
@@ -1458,7 +1486,7 @@
         "birth_year": "1943"
     },
     {
-        "author_id": "3533",
+        "id": "3533",
         "name": "Ernest J. Gaines",
         "fans_count": "940",
         "works_count": "53",
@@ -1467,51 +1495,54 @@
         "birth_year": "1933"
     },
     {
-        "author_id": "265849",
+        "id": "265849",
         "name": "Jay Long",
         "fans_count": "6",
-        "works_count": "26"
+        "works_count": "26",
+        "birth_year": "1933"
     },
     {
-        "author_id": "982213",
+        "id": "982213",
         "name": "David Wroblewski",
-        "fans_count": "898",
-        "works_count": "5"
+        "fans_count": "901",
+        "works_count": "5",
+        "birth_year": "1933"
     },
     {
-        "author_id": "2238",
+        "id": "2238",
         "name": "Isabel Allende",
-        "fans_count": "39197",
-        "works_count": "172",
+        "fans_count": "39226",
+        "works_count": "173",
         "hometown": "Lima",
         "country": "Peru"
     },
     {
-        "author_id": "585",
+        "id": "585",
         "name": "John Steinbeck",
-        "fans_count": "22883",
+        "fans_count": "22901",
         "works_count": "784",
         "hometown": "Salinas, California",
         "country": "United States",
         "birth_year": "1902"
     },
     {
-        "author_id": "5136",
+        "id": "5136",
         "name": "Mark Nepo",
         "fans_count": "526",
-        "works_count": "63"
+        "works_count": "63",
+        "birth_year": "1902"
     },
     {
-        "author_id": "3524",
+        "id": "3524",
         "name": "Joyce Carol Oates",
-        "fans_count": "8361",
+        "fans_count": "8365",
         "works_count": "831",
         "hometown": "Lockport, New York",
         "country": "United States",
         "birth_year": "1938"
     },
     {
-        "author_id": "7046622",
+        "id": "7046622",
         "name": "Eben Alexander",
         "fans_count": "328",
         "works_count": "38",
@@ -1520,21 +1551,22 @@
         "birth_year": "1953"
     },
     {
-        "author_id": "665705",
+        "id": "665705",
         "name": "Rudolph E. Tanzi",
         "fans_count": "24",
-        "works_count": "14"
+        "works_count": "16",
+        "birth_year": "1953"
     },
     {
-        "author_id": "1004238",
+        "id": "1004238",
         "name": "Will Patton",
-        "fans_count": "47",
+        "fans_count": "48",
         "works_count": "121",
         "hometown": "Charleston",
         "birth_year": "1954"
     },
     {
-        "author_id": "292970",
+        "id": "292970",
         "name": "Tayari Jones",
         "fans_count": "29291",
         "works_count": "24",
@@ -1542,51 +1574,54 @@
         "country": "United States"
     },
     {
-        "author_id": "3503",
+        "id": "3503",
         "name": "Maya Angelou",
-        "fans_count": "13382",
+        "fans_count": "13389",
         "works_count": "228",
         "hometown": "Saint Louis, Missouri",
         "country": "United States",
         "birth_year": "1928"
     },
     {
-        "author_id": "231606",
+        "id": "231606",
         "name": "Helen Schucman",
         "fans_count": "51",
-        "works_count": "42"
+        "works_count": "42",
+        "birth_year": "1928"
     },
     {
-        "author_id": "30415373",
+        "id": "30415373",
         "name": "Helen Shucman and William Thetford",
         "fans_count": "0",
-        "works_count": "1"
+        "works_count": "1",
+        "birth_year": "1928"
     },
     {
-        "author_id": "14525",
+        "id": "14525",
         "name": "Ram Dass",
-        "fans_count": "1976",
+        "fans_count": "1979",
         "works_count": "177",
         "hometown": "Boston, Massachusetts",
         "country": "United States",
         "birth_year": "1931"
     },
     {
-        "author_id": "1372787",
+        "id": "1372787",
         "name": "Richard Alpert",
         "fans_count": "42",
-        "works_count": "47"
+        "works_count": "47",
+        "birth_year": "1931"
     },
     {
-        "author_id": "3499",
+        "id": "3499",
         "name": "Lalita Tademy",
-        "fans_count": "573",
+        "fans_count": "574",
         "works_count": "9",
         "hometown": "Berkeley, California",
         "country": "United States"
     },
     {
-        "author_id": "3529",
+        "id": "3529",
         "name": "Elizabeth Berg",
         "fans_count": "4668",
         "works_count": "72",
@@ -1595,7 +1630,7 @@
         "birth_year": "1948"
     },
     {
-        "author_id": "82111",
+        "id": "82111",
         "name": "Jill Bolte Taylor",
         "fans_count": "293",
         "works_count": "47",
@@ -1604,22 +1639,22 @@
         "birth_year": "1959"
     },
     {
-        "author_id": "17004288",
+        "id": "17004288",
         "name": "Charmaine Wilkerson",
         "fans_count": "1959",
         "works_count": "5",
         "hometown": "New York"
     },
     {
-        "author_id": "12942",
+        "id": "12942",
         "name": "Judy Blume",
-        "fans_count": "10914",
+        "fans_count": "10920",
         "works_count": "197",
         "hometown": "Elizabeth, New Jersey",
         "country": "United States"
     },
     {
-        "author_id": "14343402",
+        "id": "14343402",
         "name": "Nicole Y. Dennis-Benn",
         "fans_count": "1119",
         "works_count": "5",
@@ -1627,19 +1662,19 @@
         "country": "United States"
     },
     {
-        "author_id": "117786",
+        "id": "117786",
         "name": "Lily King",
-        "fans_count": "4674",
+        "fans_count": "4678",
         "works_count": "17"
     },
     {
-        "author_id": "6339870",
+        "id": "6339870",
         "name": "Margaret Renkl",
-        "fans_count": "431",
+        "fans_count": "433",
         "works_count": "5"
     },
     {
-        "author_id": "15414151",
+        "id": "15414151",
         "name": "Javier Zamora",
         "fans_count": "994",
         "works_count": "9",
@@ -1647,7 +1682,7 @@
         "country": "El Salvador"
     },
     {
-        "author_id": "18302001",
+        "id": "18302001",
         "name": "Elizabeth Wetmore",
         "fans_count": "691",
         "works_count": "2",
@@ -1655,7 +1690,7 @@
         "country": "United States"
     },
     {
-        "author_id": "6454131",
+        "id": "6454131",
         "name": "Tara Conklin",
         "fans_count": "1390",
         "works_count": "7",
@@ -1663,46 +1698,46 @@
         "country": "US Virgin Islands"
     },
     {
-        "author_id": "21583555",
+        "id": "21583555",
         "name": "Fran Littlewood",
         "fans_count": "139",
         "works_count": "3"
     },
     {
-        "author_id": "393731",
+        "id": "393731",
         "name": "Cynthia D'Aprix Sweeney",
-        "fans_count": "1923",
+        "fans_count": "1925",
         "works_count": "6"
     },
     {
-        "author_id": "16508320",
+        "id": "16508320",
         "name": "Dolly Alderton",
-        "fans_count": "9901",
+        "fans_count": "9942",
         "works_count": "8"
     },
     {
-        "author_id": "13575034",
+        "id": "13575034",
         "name": "Linda  Holmes",
-        "fans_count": "2911",
+        "fans_count": "2916",
         "works_count": "4"
     },
     {
-        "author_id": "16458196",
+        "id": "16458196",
         "name": "Etaf Rum",
-        "fans_count": "4384",
-        "works_count": "4",
+        "fans_count": "4388",
+        "works_count": "3",
         "hometown": "Brooklyn, NY",
         "country": "United States"
     },
     {
-        "author_id": "121703",
+        "id": "121703",
         "name": "Lauren Grodstein",
         "fans_count": "337",
         "works_count": "10",
         "hometown": "New York"
     },
     {
-        "author_id": "22197027",
+        "id": "22197027",
         "name": "Joanna   Quinn",
         "fans_count": "463",
         "works_count": "3",
@@ -1710,103 +1745,101 @@
         "country": "United Kingdom"
     },
     {
-        "author_id": "17508681",
+        "id": "17508681",
         "name": "Nana Kwame Adjei-Brenyah",
-        "fans_count": "2039",
+        "fans_count": "2044",
         "works_count": "9"
     },
     {
-        "author_id": "3246397",
+        "id": "3246397",
         "name": "Jean Kwok",
         "fans_count": "2187",
         "works_count": "13"
     },
     {
-        "author_id": "84994",
+        "id": "84994",
         "name": "Cristina Henr\u00edquez",
-        "fans_count": "819",
+        "fans_count": "824",
         "works_count": "6"
     },
     {
-        "author_id": "19300129",
+        "id": "19300129",
         "name": "Abi Dar\u00e9",
-        "fans_count": "1572",
+        "fans_count": "1574",
         "works_count": "9"
     },
     {
-        "author_id": "73187",
+        "id": "73187",
         "name": "Kevin    Wilson",
-        "fans_count": "3619",
+        "fans_count": "3622",
         "works_count": "18",
         "hometown": "Nashville",
         "country": "United States"
     },
     {
-        "author_id": "23150415",
+        "id": "23150415",
         "name": "Kehinde Fadipe",
         "fans_count": "49",
         "works_count": "1"
     },
     {
-        "author_id": "21827246",
+        "id": "21827246",
         "name": "Diane Marie Brown",
-        "fans_count": "272",
-        "works_count": "1",
-        "birth_year": "1972"
+        "fans_count": "273",
+        "works_count": "1"
     },
     {
-        "author_id": "17830110",
+        "id": "17830110",
         "name": "Cara Wall",
         "fans_count": "480",
         "works_count": "2"
     },
     {
-        "author_id": "14972725",
+        "id": "14972725",
         "name": "Steven  Rowley",
-        "fans_count": "4077",
+        "fans_count": "4089",
         "works_count": "6"
     },
     {
-        "author_id": "347770",
+        "id": "347770",
         "name": "Ann Napolitano",
-        "fans_count": "5081",
+        "fans_count": "5100",
         "works_count": "4"
     },
     {
-        "author_id": "7389200",
+        "id": "7389200",
         "name": "Holly Gramazio",
-        "fans_count": "200",
+        "fans_count": "206",
         "works_count": "7"
     },
     {
-        "author_id": "15012998",
+        "id": "15012998",
         "name": "Jessica George",
-        "fans_count": "1508",
+        "fans_count": "1515",
         "works_count": "1",
         "hometown": "London, England",
         "country": "United Kingdom"
     },
     {
-        "author_id": "18992951",
+        "id": "18992951",
         "name": "Salma El-Wardany",
-        "fans_count": "247",
-        "works_count": "3",
-        "birth_year": "1988"
+        "fans_count": "248",
+        "works_count": "3"
     },
     {
-        "author_id": "21374195",
+        "id": "21374195",
         "name": "Shelby Van Pelt",
-        "fans_count": "6168",
+        "fans_count": "6197",
         "works_count": "2"
     },
     {
-        "author_id": "5413499",
+        "id": "5413499",
         "name": "Michelle Min Sterling",
-        "fans_count": "311",
+        "fans_count": "312",
         "works_count": "1"
     },
     {
-        "author_id": "17814590",
+        "id": "17814590",
         "name": "Julie Yip-Williams",
         "fans_count": "55",
         "works_count": "4",
@@ -1815,21 +1848,22 @@
         "birth_year": "1976"
     },
     {
-        "author_id": "21647077",
+        "id": "21647077",
         "name": "Thao Thai",
-        "fans_count": "187",
-        "works_count": "2"
+        "fans_count": "188",
+        "works_count": "2",
+        "birth_year": "1976"
     },
     {
-        "author_id": "14231082",
+        "id": "14231082",
         "name": "Safiya Sinclair",
-        "fans_count": "409",
+        "fans_count": "413",
         "works_count": "5",
         "hometown": "Montego Bay",
         "country": "Jamaica"
     },
     {
-        "author_id": "13234",
+        "id": "13234",
         "name": "Sandra Cisneros",
         "fans_count": "3537",
         "works_count": "90",
@@ -1838,114 +1872,118 @@
         "birth_year": "1954"
     },
     {
-        "author_id": "20427550",
+        "id": "20427550",
         "name": "Qian Julie Wang",
-        "fans_count": "1315",
+        "fans_count": "1317",
         "works_count": "1",
         "hometown": "Shijiazhuang",
         "country": "China"
     },
     {
-        "author_id": "372976",
+        "id": "372976",
         "name": "Bonnie Jo Campbell",
-        "fans_count": "562",
+        "fans_count": "563",
         "works_count": "21"
     },
     {
-        "author_id": "16264",
+        "id": "16264",
         "name": "Allegra Goodman",
-        "fans_count": "655",
+        "fans_count": "656",
         "works_count": "22",
         "hometown": "Brooklyn, NY",
         "country": "United States"
     },
     {
-        "author_id": "8719",
+        "id": "8719",
         "name": "Donna Tartt",
-        "fans_count": "32461",
+        "fans_count": "32504",
         "works_count": "41",
         "hometown": "Greenwood, Mississippi",
         "country": "United States",
         "birth_year": "1963"
     },
     {
-        "author_id": "21140919",
+        "id": "21140919",
         "name": "Nikki Erlick",
-        "fans_count": "1600",
-        "works_count": "2"
+        "fans_count": "1608",
+        "works_count": "2",
+        "birth_year": "1963"
     },
     {
-        "author_id": "21650052",
+        "id": "21650052",
         "name": "Tara M. Stringfellow",
         "fans_count": "838",
-        "works_count": "2"
+        "works_count": "2",
+        "birth_year": "1963"
     },
     {
-        "author_id": "14650756",
+        "id": "14650756",
         "name": "Rachel Khong",
-        "fans_count": "685",
-        "works_count": "10"
+        "fans_count": "710",
+        "works_count": "10",
+        "birth_year": "1963"
     },
     {
-        "author_id": "21851153",
+        "id": "21851153",
         "name": "Katy Hays",
         "fans_count": "703",
-        "works_count": "1"
+        "works_count": "1",
+        "birth_year": "1963"
     },
     {
-        "author_id": "4536964",
+        "id": "4536964",
         "name": "Amor Towles",
-        "fans_count": "24007",
-        "works_count": "27",
+        "fans_count": "24038",
+        "works_count": "28",
         "hometown": "Boston",
         "country": "United States"
     },
     {
-        "author_id": "6903957",
+        "id": "6903957",
         "name": "Lisa Harding",
         "fans_count": "123",
         "works_count": "8"
     },
     {
-        "author_id": "14493315",
+        "id": "14493315",
         "name": "Yaa Gyasi",
-        "fans_count": "13379",
+        "fans_count": "13377",
         "works_count": "10",
         "hometown": "Mampong",
         "country": "Uganda"
     },
     {
-        "author_id": "20196638",
+        "id": "20196638",
         "name": "Mateo Askaripour",
         "fans_count": "985",
         "works_count": "2"
     },
     {
-        "author_id": "19250455",
+        "id": "19250455",
         "name": "Megha Majumdar",
         "fans_count": "1214",
         "works_count": "1"
     },
     {
-        "author_id": "486136",
+        "id": "486136",
         "name": "J. Courtney Sullivan",
         "fans_count": "2281",
         "works_count": "13"
     },
     {
-        "author_id": "6219675",
+        "id": "6219675",
         "name": "Jason Mott",
         "fans_count": "1137",
         "works_count": "22"
     },
     {
-        "author_id": "21232290",
+        "id": "21232290",
         "name": "Naomi Krupitsky",
         "fans_count": "245",
-        "works_count": "2"
+        "works_count": "1"
     },
     {
-        "author_id": "5230385",
+        "id": "5230385",
         "name": "Maggie Shipstead",
         "fans_count": "1736",
         "works_count": "19",
@@ -1953,49 +1991,49 @@
         "country": "United States"
     },
     {
-        "author_id": "17525183",
+        "id": "17525183",
         "name": "Susie Yang",
         "fans_count": "698",
         "works_count": "2"
     },
     {
-        "author_id": "88588",
+        "id": "88588",
         "name": "Lauren      Fox",
         "fans_count": "415",
         "works_count": "4"
     },
     {
-        "author_id": "1983563",
+        "id": "1983563",
         "name": "Emma Straub",
-        "fans_count": "5075",
+        "fans_count": "5077",
         "works_count": "27"
     },
     {
-        "author_id": "19190935",
+        "id": "19190935",
         "name": "R. Eric Thomas",
-        "fans_count": "807",
+        "fans_count": "808",
         "works_count": "8"
     },
     {
-        "author_id": "29593",
+        "id": "29593",
         "name": "Megan Abbott",
-        "fans_count": "5931",
+        "fans_count": "5932",
         "works_count": "66"
     },
     {
-        "author_id": "4425884",
+        "id": "4425884",
         "name": "Rumaan Alam",
         "fans_count": "1781",
         "works_count": "15"
     },
     {
-        "author_id": "19918707",
+        "id": "19918707",
         "name": "Jessamine Chan",
-        "fans_count": "1161",
+        "fans_count": "1164",
         "works_count": "1"
     },
     {
-        "author_id": "16113141",
+        "id": "16113141",
         "name": "Naima Coster",
         "fans_count": "831",
         "works_count": "4",
@@ -2003,7 +2041,7 @@
         "country": "United States"
     },
     {
-        "author_id": "5099959",
+        "id": "5099959",
         "name": "Lee Cole",
         "fans_count": "90",
         "works_count": "9"
